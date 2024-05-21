@@ -2,7 +2,7 @@
  CNN based model which can accurately detect melanoma
 
 # CNN Based Model To detect Melenoma
-> This project uses a custom CNN to detect melanoma in images of skin lesions among 9 classes. The Gradio library is used to create a web app for the model prediction. The model predicts with an 87% accuracy.
+> This project uses a custom CNN to detect melanoma in images of skin lesions among 9 classes. The Gradio library is used to create a web app for the model prediction. The model predicts with an 77% accuracy.
 
 
 ## Table of Contents
@@ -76,6 +76,9 @@ As the accuracy of the model increases, the loss decreases. The final model has 
 - Google Colab
 - tensorFlow v2.11.0
 
+## Acknowledgements
+- This project was inspired by upGrad & IIIT-B
+- This project was based on [this tutorial](https://learn.upgrad.com/).
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
