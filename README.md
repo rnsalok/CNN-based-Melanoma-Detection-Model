@@ -60,7 +60,7 @@ The data set contains the following diseases:
   ![Augmented Model](Aug_Model.png)
 - Final Model
        Accuracy and Loss charts for the final model
-       ![Final Model](Final_Model_1.png)
+       ![Final Model](Final_Model.png)
 
  
 
