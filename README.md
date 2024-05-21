@@ -54,13 +54,13 @@ The data set contains the following diseases:
 ### Results
 - Baseline Model
    Accuracy and Loss charts for the Base model
-  ![Base_Model](Base_Model.png)
+  ![Base Model](Base_Model.png)
 - Augmented Model
    Accuracy and Loss charts for the augmented model
-  ![Aug_Model](Aug_Model.png)
+  ![Augmented Model](Aug_Model.png)
 - Final Model
        Accuracy and Loss charts for the final model
-       ![Final Model](Final_Model.png)
+       ![Final Model](Final_Model_1.png)
 
  
 
