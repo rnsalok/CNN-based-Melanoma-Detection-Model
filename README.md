@@ -84,7 +84,7 @@ As the accuracy of the model increases, the loss decreases. The final model has 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by [@Qsac] - feel free to contact me!
+Created by [@rnsalok] - feel free to contact me!
 
 
 <!-- Optional -->
