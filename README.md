@@ -26,11 +26,7 @@
 ## General Information
 ### Algorithm Used
 Convolution Neural Network
-- Final Model Architecture:
-
- ![Final Architecture](FinalArchitecture.png)
-
-    
+     
 ### Dataset Information
 The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed by the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
 
@@ -58,13 +54,13 @@ The data set contains the following diseases:
 ### Results
 - Baseline Model
    Accuracy and Loss charts for the Base model
-  ![Baseline Model](BaselineModel.png)
+  ![Base_Model](Base_Model.png)
 - Augmented Model
    Accuracy and Loss charts for the augmented model
-  ![Augmented Model](AugmentedModel.png)
+  ![Aug_Model](Aug_Model.png)
 - Final Model
        Accuracy and Loss charts for the final model
-       ![Final Model](FinalModel.png)
+       ![Final Model](Final_Model.png)
 
  
 
